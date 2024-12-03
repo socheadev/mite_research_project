@@ -1,4 +1,3 @@
 # Ignore file
-/dataset
+/dataset*
 /output/model
-.env
