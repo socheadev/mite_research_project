@@ -1,1 +1,4 @@
+# Ignore file
+/dataset
+/output/model
 .env
