@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/640510964062410103/fa8d2817b87c4bd89d3e81ca2d81b2e0/artifacts
+end_time: 1738661418117
+entry_point_name: ''
+experiment_id: '640510964062410103'
+lifecycle_stage: active
+run_id: fa8d2817b87c4bd89d3e81ca2d81b2e0
+run_name: likeable-rat-842
+run_uuid: fa8d2817b87c4bd89d3e81ca2d81b2e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738656891130
+status: 4
+tags: []
+user_id: sochea

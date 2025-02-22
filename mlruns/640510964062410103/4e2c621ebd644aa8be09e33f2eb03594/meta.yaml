@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/640510964062410103/4e2c621ebd644aa8be09e33f2eb03594/artifacts
+deleted_time: 1738663159917
+end_time: 1738663097928
+entry_point_name: ''
+experiment_id: '640510964062410103'
+lifecycle_stage: deleted
+run_id: 4e2c621ebd644aa8be09e33f2eb03594
+run_name: clean-hog-198
+run_uuid: 4e2c621ebd644aa8be09e33f2eb03594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738662805555
+status: 3
+tags: []
+user_id: sochea

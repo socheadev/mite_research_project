@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/640510964062410103/10ae043b66694dbfba8f96d2403d2f50/artifacts
+end_time: 1740204428282
+entry_point_name: ''
+experiment_id: '640510964062410103'
+lifecycle_stage: active
+run_id: 10ae043b66694dbfba8f96d2403d2f50
+run_name: abrasive-croc-958
+run_uuid: 10ae043b66694dbfba8f96d2403d2f50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740196368846
+status: 3
+tags: []
+user_id: sochea

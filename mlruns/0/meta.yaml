@@ -1,6 +1,6 @@
-artifact_location: file:///Users/sochea/Documents/Program/python/mite_research_project/mlruns/0
-creation_time: 1738641652799
+artifact_location: mlflow-artifacts:/0
+creation_time: 1738649295537
 experiment_id: '0'
-last_update_time: 1738641652799
+last_update_time: 1738649295537
 lifecycle_stage: active
 name: Default

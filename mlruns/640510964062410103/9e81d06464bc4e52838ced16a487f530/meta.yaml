@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/640510964062410103/9e81d06464bc4e52838ced16a487f530/artifacts
+deleted_time: 1738656320267
+end_time: 1738656297847
+entry_point_name: ''
+experiment_id: '640510964062410103'
+lifecycle_stage: deleted
+run_id: 9e81d06464bc4e52838ced16a487f530
+run_name: merciful-snail-583
+run_uuid: 9e81d06464bc4e52838ced16a487f530
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738656050846
+status: 4
+tags: []
+user_id: sochea
