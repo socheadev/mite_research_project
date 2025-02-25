@@ -1,0 +1,10 @@
+                  precision    recall  f1-score   support
+
+         alcohol       0.94      0.54      0.68        56
+           blood       0.60      0.93      0.73        44
+          sexual       0.78      0.67      0.72        46
+traffic_accident       0.80      0.89      0.84        54
+
+        accuracy                           0.75       200
+       macro avg       0.78      0.76      0.74       200
+    weighted avg       0.79      0.75      0.75       200

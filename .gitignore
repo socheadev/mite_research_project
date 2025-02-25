@@ -1,0 +1,8 @@
+output/model/
+dataset/training/
+mlruns/
+mlartifacts/
+.dvc/
+.dvcignore
+mlflow.db
+model_architecture.json
