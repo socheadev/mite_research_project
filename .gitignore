@@ -1,2 +1,6 @@
+# Ignore model and log directories
 output/model/
 output/log/
+
+# Ignore training dataset
+dataset/training/
