@@ -1,6 +1,2 @@
 output/model/
 output/log/
-dataset/training/mlruns/
-mlruns/
-*.keras
-*.h5
