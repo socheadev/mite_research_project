@@ -1,9 +1,6 @@
 output/model/
 output/log/
-dataset/training/
+dataset/training/mlruns/
 mlruns/
-mlartifacts/
-.dvc/
-.dvcignore
-mlflow.db
-model_architecture.json
+*.keras
+*.h5
