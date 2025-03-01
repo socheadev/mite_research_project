@@ -19,6 +19,17 @@ For this research project based on image classification of harmful content using
 Ensure you have the necessary dependencies installed for image classification and model training. The required libraries
 include TensorFlow, Keras, NumPy, OpenCV, Matplotlib, Plotly, and Scikit-learn.
 
+```pip install tensorflow keras numpy opencv-python matplotlib plotly scikit-learn```
+
+## Usage
+
+Follow the steps below to train the model, monitor training progress, and evaluate performance.
+
+TensorBoard is used to monitor training progress and visualize metrics such as loss, accuracy, precision, and recall. Follow these steps to run TensorBoard:
+
+```tensorboard --logdir=output/log/{version}```
+
+
 ## Configuration
 
 The project includes configurable paths for dataset storage, model output, logging, and plots. The dataset is structured
