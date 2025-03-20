@@ -2,5 +2,6 @@
 output/model/
 output/log/
 
-# Ignore training dataset
+# Ignore dataset
 dataset/training/
+dataset/testing/
